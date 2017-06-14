@@ -1,0 +1,16 @@
+{
+  "name": "projectLocation",
+  "private": true,
+  "scripts": {
+    "start": "meteor run"
+  },
+  "dependencies": {
+    "babel-runtime": "^6.20.0",
+    "google-maps-api": "^2.0.1",
+    "meteor-node-stubs": "~0.2.4",
+    "react": "^15.5.4",
+    "react-addons-pure-render-mixin": "^15.5.2",
+    "react-dom": "^15.5.4",
+    "valid-url": "^1.0.9"
+  }
+}
